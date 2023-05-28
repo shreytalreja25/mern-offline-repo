@@ -1,0 +1,38 @@
+.parent{
+    border: 5px solid red;
+    width: 500px;
+    height: 200px;
+}
+
+.child{
+    border: 5px solid blueviolet;
+    width: 400px;
+    position: absolute;
+    top:40px;
+    left: 20px;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif
+    /* height: 200px; */
+}
+
+.parent2{
+    border: 5px solid black;
+    width: 500px;
+    height: 200px;
+}
+
+.child2{
+    border: 5px solid red;
+    width: 400px;
+    position: absolute;
+    top:40px;
+    left: 20px;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif
+    /* height: 200px; */
+}
+
+.space-image{
+    height: 100%;
+    width: 100%;
+}

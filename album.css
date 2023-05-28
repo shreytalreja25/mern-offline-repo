@@ -1,0 +1,33 @@
+.logo{
+    background-color: black;
+    color: white;
+    padding: .5rem;
+}
+
+.albumExample{
+    text-align: center;
+    padding:10px;
+}
+
+
+.card{
+    /* height: 120px; */
+    width: 30%;
+    display: inline-block;
+    /* margin:5% */
+}
+
+.card-image{
+    width: 90%;
+    /* height: 90%; */
+    margin:5px;
+}
+
+footer{
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+.card-button{
+    margin:5px;
+}
